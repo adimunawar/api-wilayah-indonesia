@@ -1,8 +1,4 @@
-[
-    {"id":1,"name":"KABUPATEN SIMEULUE"},
-    {"id":2,"name":"KABUPATEN ACEH SINGKIL"},
-    {"id":3,"name":"KABUPATEN ACEH SELATAN"},
-    {"id":4,"name":"KABUPATEN ACEH TENGGARA"},
+[{"id":1,"name":"KABUPATEN SIMEULUE"},{"id":2,"name":"KABUPATEN ACEH SINGKIL"},{"id":3,"name":"KABUPATEN ACEH SELATAN"},{"id":4,"name":"KABUPATEN ACEH TENGGARA"},
     {"id":5,"name":"KABUPATEN ACEH TIMUR"},
     {"id":6,"name":"KABUPATEN ACEH TENGAH"},
     {"id":7,"name":"KABUPATEN ACEH BARAT"},
